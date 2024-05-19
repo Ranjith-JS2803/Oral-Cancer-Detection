@@ -4,8 +4,7 @@ Machine Learning and Deep Learning Model
 - There are several potential benefits to using machine learning and deep learning for oral cancer detection. One benefit is that machine learning algorithms can potentially identify patterns that are not easily recognizable by humans, increasing the accuracy of the diagnosis. 
 - Another benefit is that machine learning and deep learning algorithms can potentially process large amounts of data more quickly and efficiently than humans, making the detection process more efficient.
 
-### Requirements : 
-    requirments.txt
+### Requirements :
 - opencv-python
 - tensorflow
 - scikit-learn
@@ -20,6 +19,4 @@ Machine Learning and Deep Learning Model
 - `Machine Learning` Support Vector Classifier was used to train the model.
 
 ### Use of Flask :
-    templates/index.html -> HTML
-    app.py               -> Python file
 - Flask was used as framework for creating a user interface where the user uploads the image and receives back the predicted output.
