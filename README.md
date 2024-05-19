@@ -7,12 +7,13 @@ Machine Learning and Deep Learning Model
 ### Requirements : 
     requirments.txt
 - opencv-python
-- numpy
-- Flask
-- pandas
+- tensorflow
 - scikit-learn
+- numpy
+- pandas
+- Flask
 
-### Model :
+### Models :
     model.py  -> Python file
     model.pkl -> Pickle file
 - Support Vector Classifier was used to train the model.
