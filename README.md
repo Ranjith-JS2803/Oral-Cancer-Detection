@@ -14,10 +14,10 @@ Machine Learning and Deep Learning Model
 - Flask
 
 ### Models :
-    model.py  -> Python file
-    model.pkl -> Pickle file
-- Support Vector Classifier was used to train the model.
-- Then the trained model is saved using pickle.
+    /SVM_Model/model.py  -> Python file
+    /CNN_Model/model.ipynb  -> Jupyter notebook
+- `Deep Learning` Convolutional Neural Network was built using tensorflow.
+- `Machine Learning` Support Vector Classifier was used to train the model.
 
 ### Use of Flask :
     templates/index.html -> HTML
