@@ -1,8 +1,8 @@
 # Oral-Cancer-Detection
 Machine Learning and Deep Learning Model
 
-- There are several potential benefits to using machine learning for oral cancer detection. One benefit is that machine learning algorithms can potentially identify patterns that are not easily recognizable by humans, increasing the accuracy of the diagnosis. 
-- Another benefit is that machine learning algorithms can potentially process large amounts of data more quickly and efficiently than humans, making the detection process more efficient.
+- There are several potential benefits to using machine learning and deep learning for oral cancer detection. One benefit is that machine learning algorithms can potentially identify patterns that are not easily recognizable by humans, increasing the accuracy of the diagnosis. 
+- Another benefit is that machine learning and deep learning algorithms can potentially process large amounts of data more quickly and efficiently than humans, making the detection process more efficient.
 
 ### Requirements : 
     requirments.txt
